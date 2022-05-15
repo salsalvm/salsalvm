@@ -1,3 +1,6 @@
+
+<!-- [![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) -->
+
 Hi there I'm salsal 
 
 
@@ -110,11 +113,3 @@ Hi there I'm salsal
 <br>
 <p align="centre">
 
-<hr> <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Dev Quats</b></i></p>
- 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-
-</p>
-<hr>
