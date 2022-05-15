@@ -21,8 +21,6 @@ Hi there I'm salsal
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
-
- <br> 
  
  <hr>
  
@@ -33,34 +31,30 @@ Hi there I'm salsal
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Recent GitHub Activity</b></i>
  
 
-  <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/><br>
+   <a href="https://github.com/salsalvm"><img alt="salsalvm's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=salsalvm&custom_title=salsalvm's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </p>
 
 <hr>
+
+
  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>streak Rate</b></i>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>streak Rate</b></i><br><br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salsalvm&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
- 
-
-  
-
-
 
 <hr>
 
 
 
-<!-- <p align="center">
+<p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>achievments</b></i>
 <br><br>
 <p align="center">
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=DHANOLA&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=salsalvm&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 </p>
@@ -68,14 +62,15 @@ Hi there I'm salsal
 <br>
 </p>
  <hr>
- -->
+
 
 
 
 <!-- contact -->
  <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Can Connect With Me On</b></i>
- <p align="center">
+ 
+ <p align="center"><br>
 <a href="https://www.linkedin.com/in/salsal-vm-9b9214232/" target="_blank">
   <img align="center" alt="Rahul Dhanola | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
@@ -93,15 +88,12 @@ Hi there I'm salsal
 </a> &nbsp;&nbsp;
 <p>
   
-<br>
+
   <!-- retro visitor counter -->  
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/salsalvm/count.svg" />  
 </p>
-<br>
-
-
-  <hr>
+<hr>
 
 
  
