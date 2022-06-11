@@ -6,7 +6,8 @@ Hi there I'm salsal
 <hr>
 <!-- tecknology stack -->
  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Technology Stack</b></i>
+<!--  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> -->
+ &nbsp;<i><b>Technology Stack</b></i>
  
 
 <hr>
@@ -14,7 +15,8 @@ Hi there I'm salsal
 <!-- snake eating -->
 <br>
   <p align="center">
-   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Contribution</b></i>
+<!--    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> -->
+ &nbsp;<i><b>Git Contribution</b></i>
 
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
@@ -26,7 +28,8 @@ Hi there I'm salsal
 
 <!--  activity recent -->
  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Recent GitHub Activity</b></i>
+
+ &nbsp;<i><b>Recent GitHub Activity</b></i>
  
 
   <br/><br>
@@ -38,7 +41,8 @@ Hi there I'm salsal
 
 
  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>streak Rate</b></i><br><br>
+
+ &nbsp;<i><b>streak Rate</b></i><br><br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salsalvm&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
@@ -47,7 +51,8 @@ Hi there I'm salsal
 
 
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>achievments</b></i>
+
+ &nbsp;<i><b>achievments</b></i>
 <br><br>
 <p align="center">
 <div align=center>
@@ -66,7 +71,8 @@ Hi there I'm salsal
 
 <!-- contact -->
  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Can Connect With Me On</b></i>
+
+ &nbsp;<i><b>Can Connect With Me On</b></i>
  
  <p align="center"><br>
 <a href="https://www.linkedin.com/in/salsal-vm-9b9214232/" target="_blank">
