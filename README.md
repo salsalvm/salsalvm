@@ -4,27 +4,8 @@
 Hi there I'm salsal 
 
 <hr>
-<!-- tecknology stack -->
- <p align="center">
-<!--  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> -->
- &nbsp;<i><b>Technology Stack</b></i>
- 
 
-<hr>
- 
-<!-- snake eating -->
-<br>
-  <p align="center">
-<!--    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> -->
- &nbsp;<i><b>Git Contribution</b></i>
 
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
- 
- <hr>
- 
- <br>
 
 <!--  activity recent -->
  <p align="center">
@@ -32,7 +13,6 @@ Hi there I'm salsal
  &nbsp;<i><b>Recent GitHub Activity</b></i>
  
 
-  <br/><br>
    <a href="https://github.com/salsalvm"><img alt="salsalvm's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=salsalvm&custom_title=salsalvm's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </p>
