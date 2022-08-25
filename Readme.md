@@ -1,16 +1,25 @@
 
 <!-- [![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) -->
- &nbsp;<i><b>About Me</i>
+ 
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Salsal+%F0%9F%91%8B;FLUTTER-Full+Stack+Developer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
     </div>
 
 <hr>
-&nbsp;<i><b>Proficient With</i>
-&nbsp;<i><b>Familiar With</i>
-
-
+<!-- &nbsp;<i><b>Proficient With</i>  <br/> -->
+&nbsp;<i><b>Familiar With</i><br/>
+ <p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a></p>
+ <br/>
+&nbsp;<i><b>About Me</i><br/>
 <h1 align="center">Hi 👋, I'm  Salsal Vm</h1>
+ 
+
+- :school: I am a `Junior` at Brototype
+- :technologist: I love using Software as a solution for every  `Problem`
+- :computer: I am a competitive programmer mainly at  `Flutter`
+- :student: I completed: `Master Degree` about Computer Application `MCA`.
+- :thinking: I’m currently open for: A `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1MqLa_KLjsUfABtDXYvDRNlAcS0zTeiFH/view?usp=sharing).
+- :nerd_face: Always `learning new things`<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salsalvm&show_icons=true&locale=en&layout=compact" alt="salsalvm" /></p>
 <!--  activity recent -->
  <p align="center">
 
