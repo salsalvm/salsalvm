@@ -1,12 +1,16 @@
 
 <!-- [![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) -->
-
-Hi there I'm salsal 
+ &nbsp;<i><b>About Me</i>
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Salsal+%F0%9F%91%8B;FLUTTER-Full+Stack+Developer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
+    </div>
 
 <hr>
+&nbsp;<i><b>Proficient With</i>
+&nbsp;<i><b>Familiar With</i>
 
 
-
+<h1 align="center">Hi 👋, I'm  Salsal Vm</h1>
 <!--  activity recent -->
  <p align="center">
 
