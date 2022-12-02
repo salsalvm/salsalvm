@@ -2,7 +2,7 @@
 <!-- [![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) -->
  
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Salsal+%F0%9F%91%8B;FLUTTER-Developer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Salsal+%F0%9F%91%8B;FullStack-+Flutter+-Developer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
     </div>
 
 <hr>
@@ -15,7 +15,7 @@
 - :technologist: I love using Software as a solution for every  `Problem`
 - :computer: I am a competitive programmer mainly at  `Flutter`
 - :student: I completed: `Master Degree` in Computer Application `MCA`.
-- :thinking: I’m currently open for: A `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1MqLa_KLjsUfABtDXYvDRNlAcS0zTeiFH/view?usp=sharing).
+<!-- - :thinking: I’m currently open for: A `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1MqLa_KLjsUfABtDXYvDRNlAcS0zTeiFH/view?usp=sharing). -->
 - :nerd_face: Always `learning new things`<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=salsalvm&show_icons=true&locale=en&layout=compact" alt="salsalvm" />
  <!-- &nbsp;<i><b>Proficient With</i>  <br/> -->
 &nbsp;<i><b>PROFICIENT WITH<hr/>
