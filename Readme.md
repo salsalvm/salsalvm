@@ -6,13 +6,38 @@
 
 <p>Calicut, Kerala · 4+ years · 10M+ downloads · 100K+ DAU</p>
 
-<p>
-  <a href="https://salsal-vm.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-salsal--vm-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/salsal-vm-9b9214232/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:salsalvm1997@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://salsal-vm.netlify.app/Salsal_VM_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-FF4B4B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
-  <img src="https://komarev.com/ghpvc/?username=salsalvm&label=Profile%20views&color=6FDA44&style=for-the-badge" alt="Profile views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6FDA44,100:161B22&height=70&section=header&text=Let's%20Connect&fontSize=22&fontColor=ffffff&animation=twinkling" alt="Let's Connect" />
+
+<br />
+
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <a href="https://salsal-vm.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=6FDA44&logoWidth=18" alt="Portfolio" height="32" />
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.linkedin.com/in/salsal-vm-9b9214232/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoWidth=18" alt="LinkedIn" height="32" />
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="mailto:salsalvm1997@gmail.com">
+        <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335&logoWidth=18" alt="Email" height="32" />
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://salsal-vm.netlify.app/Salsal_VM_Resume.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/Resume-161B22?style=for-the-badge&logo=readthedocs&logoColor=FF4B4B&logoWidth=18" alt="Resume" height="32" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=salsalvm&label=Profile%20views&color=6FDA44&labelColor=161B22&style=flat-square" alt="Profile views" />
 
 </div>
 
