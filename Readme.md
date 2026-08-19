@@ -6,30 +6,36 @@
 
 <p>Calicut, Kerala · 4+ years · 10M+ downloads · 100K+ DAU</p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6FDA44,100:161B22&height=70&section=header&text=Let's%20Connect&fontSize=22&fontColor=ffffff&animation=twinkling" alt="Let's Connect" />
-
 <br />
 
 <table align="center">
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="90">
       <a href="https://salsal-vm.netlify.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=6FDA44&logoWidth=18" alt="Portfolio" height="32" />
+        <img src="https://cdn.simpleicons.org/googlechrome/6FDA44" width="44" height="44" alt="Portfolio" />
+        <br />
+        <sub><b>Portfolio</b></sub>
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="90">
       <a href="https://www.linkedin.com/in/salsal-vm-9b9214232/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2&logoWidth=18" alt="LinkedIn" height="32" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="44" height="44" alt="LinkedIn" />
+        <br />
+        <sub><b>LinkedIn</b></sub>
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="90">
       <a href="mailto:salsalvm1997@gmail.com">
-        <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335&logoWidth=18" alt="Email" height="32" />
+        <img src="https://cdn.simpleicons.org/gmail/EA4335" width="44" height="44" alt="Email" />
+        <br />
+        <sub><b>Email</b></sub>
       </a>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="90">
       <a href="https://salsal-vm.netlify.app/Salsal_VM_Resume.pdf" target="_blank">
-        <img src="https://img.shields.io/badge/Resume-161B22?style=for-the-badge&logo=readthedocs&logoColor=FF4B4B&logoWidth=18" alt="Resume" height="32" />
+        <img src="https://cdn.simpleicons.org/readthedocs/FF4B4B" width="44" height="44" alt="Resume" />
+        <br />
+        <sub><b>Resume</b></sub>
       </a>
     </td>
   </tr>
@@ -37,7 +43,7 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=salsalvm&label=Profile%20views&color=6FDA44&labelColor=161B22&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=salsalvm&label=Profile%20views&color=6FDA44&labelColor=21262d&style=flat-square" alt="Profile views" />
 
 </div>
 
