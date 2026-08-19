@@ -202,5 +202,4 @@ Jan 2020 – May 2020
 [LinkedIn](https://www.linkedin.com/in/salsal-vm-9b9214232/) ·
 [Email](mailto:salsalvm1997@gmail.com) ·
 [X](https://twitter.com/salsalvm)
-
 </div>
